@@ -1,0 +1,24 @@
+.delete-btn{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    cursor: pointer;
+}
+
+.delete-btn:hover{
+    color: skyblue;
+}
+.edit-bill-title{
+    width: 100px;
+    display: inline-block;
+}
+.edit-bill-cost-input{
+    width: 100px;
+    display: inline-block;
+}
+.edit-mode-btn{
+    cursor: pointer;
+}
+.edit-mode-btn:hover{
+    color: skyblue;
+}

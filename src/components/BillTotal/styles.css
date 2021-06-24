@@ -1,0 +1,29 @@
+.bill-total-container {
+    width: 350px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    font-size: 18px;
+    text-shadow: 1px 1px 1px gray;
+}
+
+.total-cost {
+    font-weight: 400;
+    margin-left: 10px;
+    text-shadow: 1px 1px 1px gray;
+}
+
+.total-saved-container {
+    width: 350px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    font-size: 18px;
+    text-shadow: 1px 1px 1px gray;
+}
+
+.total-saved{
+    font-weight: 400;
+    margin-left: 10px;
+    text-shadow: 1px 1px 1px gray;
+}
